@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React for work with AWS Code Pipeline
         </a>
       </header>
     </div>
