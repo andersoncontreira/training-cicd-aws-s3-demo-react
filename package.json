@@ -1,5 +1,5 @@
 {
-  "name": "training-cicd-aws-demo-react",
+  "name": "training-cicd-aws-s3-demo-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

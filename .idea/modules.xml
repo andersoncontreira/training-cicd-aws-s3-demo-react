@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/training-cicd-aws-demo-react.iml" filepath="$PROJECT_DIR$/.idea/training-cicd-aws-demo-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../training-cicd-aws-s3-demo-react/.idea/training-cicd-aws-s3-demo-react.iml" filepath="$PROJECT_DIR$/../training-cicd-aws-s3-demo-react/.idea/training-cicd-aws-s3-demo-react.iml" />
     </modules>
   </component>
 </project>
