@@ -1,6 +1,11 @@
 # training-cicd-aws-s3-demo-react
 In this project we will study how to create a pipeline for a react app.
 
+## Service Architecture
+This service is the main part of the follow architecture.
+
+![AWS Architecture](docs/training-cicd-aws-s3-demo-react.png)
+
 ## Creating the project
 ### Create the project folder
 Execute the follow command:
