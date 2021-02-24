@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     PROJECT_NAME: "training-cicd-aws-s3-demo-react"
-    REGION: "sa-east-1"
+    REGION: "us-east-1"
 phases:
   install:
     runtime-versions:
